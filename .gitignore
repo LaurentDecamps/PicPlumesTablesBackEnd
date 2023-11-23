@@ -1,0 +1,11 @@
+# Répertoires cachés
+.config/
+.vs/
+.vscode/
+
+# Répertoires de travail
+bin/
+obj/
+
+# répertoire xml des propriétés
+Properties/
